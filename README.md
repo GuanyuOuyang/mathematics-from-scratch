@@ -50,6 +50,8 @@ even though I know better now how long the road actually is.
 #### Functional Analysis
 - assorted notes, TBD
 
+#### Operations Research/ Optimization
+
 #### ------
 
 ---
