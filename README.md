@@ -25,7 +25,7 @@ I’m starting from definitions again,
 writing things out in full,
 and only trusting arguments I can personally justify.
 The goal isn’t speed or coverage,
-but eventually being able to tell — on my own —
+but eventually being able to tell on my own
 when a proof is right, when it’s wrong,
 and why.
 
