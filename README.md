@@ -44,7 +44,7 @@ even though I know better now how long the road actually is.
 #### Linear Algebra
 - *Linear Algebra Done Right*
 
-#### Probability
+#### Probability/Statistics
 - Durrett — *Probability Theory and Examples* (up to martingales)
 
 #### Functional Analysis
